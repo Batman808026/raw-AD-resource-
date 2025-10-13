@@ -1,4 +1,4 @@
-raw-AD-resource  
+                                                 *********raw-AD-resource**************  
 
 https://learn.microsoft.com/en-us/windows-server/    
 
@@ -81,3 +81,25 @@ Local escalation helpers: JuicyPotato / RottenPotatoNG & SharpPotato.
 Service abuses: sc.exe (query) & checking unquoted service paths. 
 
 Token / pass-the-hash / lateral exec: Impacket (psexec, wmiexec) & CrackMapExec. 
+
+
+
+
+YouTube Playlists & Channels:
+
+
+OSCP Practice Labs walkthrough (playlist) — https://www.youtube.com/watch?v=gY_9Dncjw-s&list=PLT08J44ErMmb9qaEeTYl5diQW6jWVHCR2
+Refer to this playlist for walkthroughs of the OSCP practice labs.
+
+Hacking Active Directory — Beginner course (part 1) (HackerBlueprint) — https://www.youtube.com/watch?v=RxU0AANCesQ
+
+Hacking Active Directory — Beginner course (part 1) (TCMSecurityAcademy) — https://www.youtube.com/watch?v=VXxH4n684HE
+
+ippsec (YouTube channel) — https://www.youtube.com/@ippsec
+Excellent, deeply explained walkthrough videos for many Hack The Box machines.
+
+BittenTech (YouTube channel) — https://www.youtube.com/@BittenTech
+Great content in Hindi—very helpful overall and has solid OSCP prep guidance.
+
+TCM Security Academy (YouTube channel) — https://www.youtube.com/@TCMSecurityAcademy
+Detailed videos on many OSCP-relevant topics — highly recommended.
