@@ -6,3 +6,78 @@ https://swisskyrepo.github.io/InternalAllTheThings/
 
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
 
+
+Windows Local Privilege Escalation
+  https://blog.1nf1n1ty.team/hacktricks/windows-hardening/windows-local-privilege-escalation
+
+Certipy - AD CS Attack & Enumeration Toolkit
+
+  https://github.com/ly4k/Certipy
+
+
+Kerberos - Tickets  (https://swisskyrepo.github.io/InternalAllTheThings/active-directory/kerberos-tickets/)
+
+SMB Enumeration Cheatsheet  (https://0xdf.gitlab.io/cheatsheets/smb-enum)
+
+Windows Privilege Escalation Guide (https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
+
+Attacking Active Directory (https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/active-directory)
+
+best resource for h (https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide)
+
+Impacket  (https://tools.thehacker.recipes/impacket)
+
+Dumping Windows Credentials  (https://tesserent.com/insights/blog/dumping-windows-credentials?utm_source=securusglobal.com&utm_medium=301)
+
+best h re (https://www.thehacker.recipes/)  
+
+Active Directory & Kerberos Abuse   (https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse)
+
+Attacking Active Directory  (https://watchdogsacademy.gitbook.io/attacking-active-directory)
+
+Attacking Active Directory  (https://watchdogsacademy.gitbook.io/attacking-active-directory)
+
+
+GOAD (vulnerable AD lab by Orange Cyberdefense) — https://github.com/Orange-Cyberdefense/GOAD
+A pentest AD lab environment to practice typical attack techniques.
+
+GOAD cross-reference (mayfly277) — https://mayfly277.github.io/
+Helpful companion/reference to GOAD.
+
+
+
+
+Cheat-Sheets:
+
+Netrunners (command shortcut tool) — https://www.netrunners.in/
+Fill in variables and get ready-to-run commands — handy during labs and exam.
+
+Active Directory Exploitation Cheat Sheet (GitHub) — https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+
+Haax Cheatsheet — https://cheatsheet.haax.fr/
+
+WADComs (interactive Windows/AD cheat sheet) — https://wadcoms.github.io/
+Curated offensive tools and corresponding commands for Windows/AD.
+
+0xsyr0 — OSCP checklist / repo — https://github.com/0xsyr0/oscp
+All-in-one OSCP checklist.
+
+https://s4thv1k.com/posts/oscp-cheatsheet/
+
+https://fuzzysecurity.com/tutorials/16.html
+
+https://github.com/TCM-Course-Resources
+
+Windows tool : 
+
+[Windows]
+
+AD & enum tools: PowerView & SharpHound. 
+
+Credential harvesting: Mimikatz & Rubeus (Kerberos). 
+
+Local escalation helpers: JuicyPotato / RottenPotatoNG & SharpPotato. 
+
+Service abuses: sc.exe (query) & checking unquoted service paths. 
+
+Token / pass-the-hash / lateral exec: Impacket (psexec, wmiexec) & CrackMapExec. 
